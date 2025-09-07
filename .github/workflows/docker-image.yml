@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: yourdockerhubusername/your-image-name:latest
+          tags: nicetomeetyou5/concepts-build-image-demo:latest
